@@ -3,7 +3,7 @@
 % Consider the following communication situation:
 % A talker and a listener face each other and are 1m appart. There is a
 % background of white noise and the talker shouts. 
-% Calculate the SII for this communicaiton situation as a function of
+% Calculate the SII for this communication situation as a function of
 % noise level when the listener wears hearing protection and when he
 % does not wear hearing protection.
 %

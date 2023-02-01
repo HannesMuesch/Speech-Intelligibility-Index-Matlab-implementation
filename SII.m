@@ -74,7 +74,7 @@ function S = SII(varargin)
 %           listening situation to be analyzed. Sections 5.1, 5.2, and 5.3 give three examples of how to derive the Equivalent Speech Spectrum
 %           Level from physical measurements.
 %
-% Hannes Muesch, 2003 - 2005
+% Copyright 2003-2005 Hannes Muesch
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% VERIFY INTEGRITY OF INPUT VARIABLES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

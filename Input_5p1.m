@@ -58,7 +58,7 @@ function [E,N,T] = Input_5p1(varargin);
 %           A scalar, having a value of either 1 or 2, indicating the listening mode: b = 1 --> monaural listening, b = 2 --> binaural listening
 %           If this identifier is omitted, monaural listening is assumed.
 %
-% Hannes Muesch, 2003 - 2005
+% Copyright 2003-2005 Hannes Muesch
 
 [x,Nvar] = size(varargin);
 CharCount = 0;
